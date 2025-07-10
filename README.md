@@ -1,12 +1,84 @@
-# React + Vite
+# 🎓 Student Dashboard (React + Tailwind)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, responsive admin dashboard built using **React** and **Tailwind CSS** for managing and displaying student records.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✍️ **Add/Edit/Delete** student data via Admin Panel
+- 📋 **Student Info View** with live search functionality
+- 🌐 **Routing** between Admin Panel and Student Info pages
+- 💾 **Persistent storage** using LocalStorage
+- 🎨 **Modern UI** with Tailwind CSS & responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Screenshots
+
+### Admin Panel  
+![Admin Panel Screenshot](./screenshots/admin-panel.png)
+
+### Student Information  
+![Student Info Screenshot](./screenshots/student-info.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (with Hooks)
+- **React Router DOM**
+- **Tailwind CSS**
+- **LocalStorage** (for data persistence)
+
+---
+
+## 📂 Project Structure
+
+student-dashboard/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── AdminPanel.jsx
+│ │ ├── StudentInfo.jsx
+│ ├── App.jsx
+│ └── index.js
+├── App.css
+└── README.md
+
+
+---
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/student-dashboard.git
+cd student-dashboard
+npm install
+npm run dev # or npm start
+
+
+📈 Future Enhancements
+✅ Pagination
+
+✅ Export student data (CSV / PDF)
+
+✅ Department/year filters
+
+✅ Authentication for admin access
+
+📄 License
+MIT License
+© 2025 nishantraj
+
+🙌 Acknowledgements
+React
+Tailwind CSS
+React Router
