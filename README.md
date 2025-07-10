@@ -17,7 +17,7 @@ A simple, responsive admin dashboard built using **React** and **Tailwind CSS** 
 ## 🖼️ Screenshots
 
 ### Admin Panel  
-![Admin Panel Screenshot](./screenshots/admin-panel.png)
+![Admin Panel Screenshot](Screenshot (41).png)
 
 ### Student Information  
 ![Student Info Screenshot](./screenshots/student-info.png)
