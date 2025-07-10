@@ -20,7 +20,7 @@ A simple, responsive admin dashboard built using **React** and **Tailwind CSS** 
 ![Admin Panel Screenshot](https://github.com/NishantSingh2964/Student-Management-Dashboard/blob/main/Screenshot%20(41).png)
 
 ### Student Information  
-![Student Info Screenshot](./screenshots/student-info.png)
+![Student Info Screenshot](https://github.com/NishantSingh2964/Student-Management-Dashboard/blob/main/Screenshot%20(42).png)
 
 ---
 
